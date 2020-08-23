@@ -1,0 +1,28 @@
+﻿  record_and_save.vcxproj -> C:\Users\Tony_\Documents\projects\realsensetemp\Debug\record_and_save.exe
+  Copy OpenCV and RealSense SDK shared modules next to the application
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\bin\x86\realsense2.dll
+  复制了 1 个文件
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x86\Debug\opencv_calib3d341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x86\Debug\opencv_core341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x86\Debug\opencv_dnn341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x86\Debug\opencv_features2d341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x86\Debug\opencv_flann341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x86\Debug\opencv_highgui341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x86\Debug\opencv_imgcodecs341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x86\Debug\opencv_imgproc341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x86\Debug\opencv_ml341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x86\Debug\opencv_objdetect341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x86\Debug\opencv_photo341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x86\Debug\opencv_shape341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x86\Debug\opencv_stitching341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x86\Debug\opencv_superres341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x86\Debug\opencv_video341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x86\Debug\opencv_videoio341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x86\Debug\opencv_videostab341d.dll
+  复制了 17 个文件
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\data\MobileNetSSD_deploy.caffemodel
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\data\MobileNetSSD_deploy.prototxt
+  复制了 2 个文件
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\data\MobileNetSSD_deploy.caffemodel
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\data\MobileNetSSD_deploy.prototxt
+  复制了 2 个文件

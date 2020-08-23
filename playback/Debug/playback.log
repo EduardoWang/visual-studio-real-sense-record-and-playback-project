@@ -1,0 +1,22 @@
+﻿  playback.cpp
+C:\Program Files (x86)\Intel RealSense SDK 2.0\include\librealsense2\h\rs_option.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\Tony_\Documents\projects\realsensetemp\playback\example.hpp(703,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tony_\Documents\projects\realsensetemp\playback\example.hpp(798,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tony_\Documents\projects\realsensetemp\playback\example.hpp(891,23): warning C4018: '<': signed/unsigned mismatch
+playback.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function "public: __thiscall window::window(int,int,char const *)" (??0window@@QAE@HHPBD@Z)
+playback.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function "public: __thiscall window::~window(void)" (??1window@@QAE@XZ)
+playback.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function "public: __thiscall window::window(int,int,char const *)" (??0window@@QAE@HHPBD@Z)
+playback.obj : error LNK2019: unresolved external symbol _glfwDestroyWindow referenced in function "public: __thiscall window::~window(void)" (??1window@@QAE@XZ)
+playback.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function "public: __thiscall window::operator bool(void)" (??Bwindow@@QAE_NXZ)
+playback.obj : error LNK2019: unresolved external symbol _glfwGetWindowSize referenced in function "public: __thiscall window::operator bool(void)" (??Bwindow@@QAE_NXZ)
+playback.obj : error LNK2019: unresolved external symbol _glfwGetFramebufferSize referenced in function "public: __thiscall window::operator bool(void)" (??Bwindow@@QAE_NXZ)
+playback.obj : error LNK2019: unresolved external symbol _glfwSetWindowUserPointer referenced in function "public: __thiscall window::window(int,int,char const *)" (??0window@@QAE@HHPBD@Z)
+playback.obj : error LNK2019: unresolved external symbol _glfwGetWindowUserPointer referenced in function "public: void __thiscall <lambda_422ec90ec5c87999d430c59c6bf9f6de>::operator()(struct GLFWwindow *,int,int,int,int)const " (??R<lambda_422ec90ec5c87999d430c59c6bf9f6de>@@QBEXPAUGLFWwindow@@HHHH@Z)
+playback.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function "public: __thiscall window::operator bool(void)" (??Bwindow@@QAE_NXZ)
+playback.obj : error LNK2019: unresolved external symbol _glfwSetKeyCallback referenced in function "public: __thiscall window::window(int,int,char const *)" (??0window@@QAE@HHPBD@Z)
+playback.obj : error LNK2019: unresolved external symbol _glfwSetMouseButtonCallback referenced in function "public: __thiscall window::window(int,int,char const *)" (??0window@@QAE@HHPBD@Z)
+playback.obj : error LNK2019: unresolved external symbol _glfwSetCursorPosCallback referenced in function "public: __thiscall window::window(int,int,char const *)" (??0window@@QAE@HHPBD@Z)
+playback.obj : error LNK2019: unresolved external symbol _glfwSetScrollCallback referenced in function "public: __thiscall window::window(int,int,char const *)" (??0window@@QAE@HHPBD@Z)
+playback.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function "public: __thiscall window::window(int,int,char const *)" (??0window@@QAE@HHPBD@Z)
+playback.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function "public: __thiscall window::operator bool(void)" (??Bwindow@@QAE_NXZ)
+C:\Users\Tony_\Documents\projects\realsensetemp\Debug\playback.exe : fatal error LNK1120: 16 unresolved externals
