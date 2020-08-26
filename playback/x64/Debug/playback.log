@@ -1,1 +1,33 @@
-﻿
+﻿  playback.cpp
+C:\Program Files (x86)\Intel RealSense SDK 2.0\include\librealsense2\h\rs_option.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\glfw-imgui\include\GLFW\glfw3.h(85): message : see previous definition of 'APIENTRY'
+C:\Users\Tony_\Documents\projects\realsensetemp\playback\playback.cpp(40,47): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+  playback.vcxproj -> C:\Users\Tony_\Documents\projects\realsensetemp\x64\Debug\playback.exe
+  Copy OpenCV and RealSense SDK shared modules next to the application
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\bin\x64\realsense2.dll
+  复制了 1 个文件
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x64\Debug\opencv_calib3d341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x64\Debug\opencv_core341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x64\Debug\opencv_dnn341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x64\Debug\opencv_features2d341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x64\Debug\opencv_flann341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x64\Debug\opencv_highgui341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x64\Debug\opencv_imgcodecs341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x64\Debug\opencv_imgproc341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x64\Debug\opencv_ml341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x64\Debug\opencv_objdetect341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x64\Debug\opencv_photo341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x64\Debug\opencv_shape341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x64\Debug\opencv_stitching341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x64\Debug\opencv_superres341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x64\Debug\opencv_video341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x64\Debug\opencv_videoio341d.dll
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\bin\x64\Debug\opencv_videostab341d.dll
+  复制了 17 个文件
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\data\MobileNetSSD_deploy.caffemodel
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\data\MobileNetSSD_deploy.prototxt
+  复制了 2 个文件
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\data\MobileNetSSD_deploy.caffemodel
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\third-party\opencv-3.4\\data\MobileNetSSD_deploy.prototxt
+  复制了 2 个文件

@@ -1,2 +1,4 @@
 a.bag
 .vs/
+playback/outputPNG/
+record_and_save/realtime_recording.bag
