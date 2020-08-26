@@ -19,3 +19,7 @@ pipe->start();
 device = pipe->get_active_profile().get_device();
 ```
 you have to do all steps above to actually close the pipeline and device, then you can playback normally
+
+# Update Aug 26 MST
+Add code in playback.cpp to allow read bag file and convert color frames to PNG and output
+Have more control on the output filename
